@@ -98,6 +98,3 @@ i will focus on  using background properties .
 - Frontend Mentor - [@mgkh286](https://www.frontendmentor.io/profile/mgkh286)
 - Twitter - [@mmd1790](https://twitter.com/mmd1790)
 
-## Acknowledgments
-
-My Mentor dev [Hossam Khalaf](https://www.linkedin.com/in/hossam-khalaf-080875171/?originalSubdomain=eg) helped me on this project. and give me inspiration in learning programming.
