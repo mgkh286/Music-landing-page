@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a466c9;
+  padding: 0.5rem 3rem;
+}
+
+.navbar .logo {
+  width: 90px;
+  height: 90px;
+}
+
+.navbar-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.navbar-item a {
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.4rem;
+  color: #e7cb2c;
+}
+
+.navbar-item a:hover {
+  color: #fff;
+}
+
+.banner {
+  background-color: #4000ffb7;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.banner h1 {
+  text-transform: uppercase;
+  font-size: 2rem;
+  letter-spacing: 8px;
+}
+
+.banner .banner-desc {
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+#small-girl {
+  height: 250px;
+  width: 200px;
+  padding: 2rem 0;
+}
+
+.banner button {
+  padding: 1rem 2rem;
+  background-color: #a466c9;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 10px;
+}
+
+.banner button:hover {
+  background-color: rgba(255, 255, 255, 0.986);
+  color: #000;
+}
+
+#gritter {
+  color: #4000ff;
+  font-size: 100px;
+}
+
+.bold {
+  font-weight: 900;
+}
