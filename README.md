@@ -21,13 +21,13 @@ Create your first HTML/CSS project
 
 ### Screenshot
 
-![desktop](https.PNG)
-![Mobile](https:PNG)
+![desktop](https://github.com/mgkh286/Music-landing-page/blob/master/img/desktop.PNG)
+![Mobile](https://github.com/mgkh286/Music-landing-page/blob/master/img/mobile.PNG)
 
 ### Links
 
 
-- Live Site URL: [live site](https://mgkh286.github./)
+- Live Site URL: [live site](https://mgkh286.github.io/Music-landing-page/)
 
 ## My process
 
